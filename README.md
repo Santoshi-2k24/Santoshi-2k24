@@ -45,7 +45,7 @@ Databases & Hosting: PostgreSQL, SQLite, NeonDB, Render, Vercel
 
 ### 📫 Connect with Me
 - 📧 Email: ssantoshi2712@gmail.com  
-- 💼 LinkedIn: [Santoshi V N Sambhumahanti](https://www.linkedin.com/in/santoshi-sambhumahanti/)  
+- 💼 LinkedIn: [Santoshi V N Sambhumahanti](https://www.linkedin.com/in/santoshisambhumahanti/)  
 - 🌐 Portfolio: *Coming soon...*
 
 ---
