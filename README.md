@@ -4,7 +4,7 @@
 💻 Pre-Final Year Computer Science Student at <strong>NIT Rourkela</strong><br>
 🚀 Aspiring Software Developer | DSA & Web Development Enthusiast<br>
 🌟 Passionate about building scalable systems and solving real-world problems<br>
-🎨 Dancer | Painter | Badminton Player
+
 </p>
 
 ---
