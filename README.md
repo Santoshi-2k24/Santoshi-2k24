@@ -39,7 +39,7 @@ Databases & Hosting: PostgreSQL, SQLite, NeonDB, Render, Vercel
 ### 💼 Extracurricular Activities
 - **Algorithmic and Programming Society, NITR** → Peer DSA and advanced algorithms workshops  
 - **3D Club, NITR** → Treasurer & Executive Member, managing web development operations  
-- **INNOVISION '24** → Event Coordinator for 10,000+ attendees at Eastern India’s largest fest
+
 
 ---
 
